@@ -1,0 +1,17 @@
++ Request for a zipcode information and get appropriate data from Location service
++ Locaton service returns a valid result (Json Object..)
+-------------------------
+- Request for a zipcode information that is invalid and Location service return nothing
+- Request for a zipcode information which is related to two or more differnt cities in different country. we only wants US cities.
+- Request for a zipcode information but the Location service is down
+-------------------------
+- Request for a Lat and Long information and get appropriate data from Temprature service
+- Request for a Lat and Long information that is irrelaevant and Temprature service return nothing
+- Request for a Lat and Long information but the Temprature service is down
+
+- Location service will return invalid result (page not found)
+
+- Check the content of the returned Json object to verify how many cities.
+- Check the Json object contain multiple sities for one zipcode and all of them are in US.
+
+-
