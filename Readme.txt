@@ -10,7 +10,7 @@ The output format may be like this, for example:
 
 Weather data:
 City			 State			Zip Code		Min		Max		Condition
-Austin		 CO					81611				5		  11		Snow
+Boulder		 CO					81611				5		  11		Snow
 Dallas		 TX					75201				61		75		Sunny
 Houston		 TX					77204				66		82		Sunny
 
