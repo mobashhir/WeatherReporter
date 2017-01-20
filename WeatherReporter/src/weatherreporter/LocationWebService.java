@@ -5,7 +5,6 @@ import com.eclipsesource.json.JsonArray;
 import com.eclipsesource.json.JsonObject;
 import com.eclipsesource.json.JsonValue;
 import org.jsoup.Jsoup;
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
