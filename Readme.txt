@@ -7,7 +7,6 @@ For example, if the input file were to contain the following zip codes:
 81611
 
 The output format may be like this, for example:
-
 Weather data:
 City			 State			Zip Code		Min		Max		Condition
 Boulder		 CO					81611				5		  11		Snow
